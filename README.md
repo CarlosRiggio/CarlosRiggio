@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💼 I am currently working at Gradiant as a Jr Cybersecurity Researcher-Engineer
+- 💼 Working at Gradiant as a Jr Cybersecurity Researcher-Engineer
 - 📚 Studying Master’s in DevOps & Applied AI in Universidad Internacional de la Rioja
