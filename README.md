@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 💼 Working at Gradiant as a Jr Cybersecurity Researcher-Engineer
-- 📚 Master’s in DevOps & Applied AI in Universidad Internacional de la Rioja
+- 📚 MSc in DevOps & Applied AI in Universidad Internacional de la Rioja
 - 📚 Bachelor in Telecommunications Engineering in Universidade de Vigo
