@@ -38,8 +38,4 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CarlosRiggio&theme=tokyonight" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlosRiggio&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
 
